@@ -6,3 +6,5 @@ I play on a few League accounts and got tired of checking mastery progress by lo
 
 pip install -r requirements.txt
 
+
+<!-- checked: 2026-10-04 -->
